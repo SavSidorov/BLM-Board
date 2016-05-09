@@ -13,7 +13,7 @@ The Brake Light Module (BLM_2017) is a brake light designed for our 2017 vehicle
 
 The BLM is powered directly by the Drive Control Module (DCM_2017), which produces a +12V signal whenever either regenerative braking or the mechanical brakes are activated.
 
-# Features
+# Features & Specifications
 
 - The LEDs are split into two series strings of 10, each powered by a separate channel on the LED driver. This allows the brake light to still be clearly seen even in the event of a failure of one of the strings.
 - The LED driver switching frequency can be adjusted by changing the value of resistor R1, and the current through each string can be set by modifying the feedback resistors R2 and R3.
